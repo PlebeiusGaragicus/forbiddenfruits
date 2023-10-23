@@ -1,0 +1,1 @@
+scp <fruits> satoshi@lnarcade.local:/home/satoshi/forbiddenfruits/snes-fzero
